@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-import FBLPromises
+import UtilSwift.FBLPromises
 
 /// Promises synchronization construct in Swift. Leverages ObjC implementation internally.
 public final class Promise<Value> {

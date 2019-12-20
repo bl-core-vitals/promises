@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-import FBLPromises
+import UtilSwift.FBLPromises
 
 /// Creates a pending promise that fulfills with the same value as the promise returned from `work`
 /// block, which executes asynchronously on the given `queue`, or rejects with the same error after

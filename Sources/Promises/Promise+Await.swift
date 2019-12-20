@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-import FBLPromises
+import UtilSwift.FBLPromises
 
 /// Waits for promise resolution. The current thread blocks until the promise is resolved.
 /// - parameters:

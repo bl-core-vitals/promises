@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-import FBLPromises
+import UtilSwift.FBLPromises
 
 /// Internal errors that `Promise` can throw.
 /// Indirectly conforms to `Swift.Error` through conformance to `Swift.CustomNSError` below.

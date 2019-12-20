@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-import FBLPromises
+import UtilSwift.FBLPromises
 
 extension DispatchGroup {
   /// Dispatch group for promises that is typically used to wait for all scheduled blocks.
